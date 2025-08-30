@@ -1,9 +1,5 @@
 
 
-##  IoT Dual-Mode Relay Control
-_File: `README.md` inside IoT-Relay repo_
-
-```markdown
 # IoT Dual-Mode Relay Control 🌐🔌
 
 An **ESP-12F (ESP8266)** based home automation project with **dual control modes**:  
